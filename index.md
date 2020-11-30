@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Explicit events, Implicit events, Automatically logged events, Facebook app ID, Mobile advertiser ID, Metadata from the request, Unique device identifier generated from the device including but not limited to ID for Advertisers, Platform, Device, OS major, OS minor, IP address - used to infer country information, Install timestamp, Boot-up timestamp, Progression events, Design events. The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -18,6 +18,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [GameAnalytics](https://gameanalytics.com/privacy)
 
 **Log Data**
 
@@ -56,7 +57,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2020-11-26
+This policy is effective as of 2020-11-30
 
 **Contact Us**
 
